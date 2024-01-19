@@ -19,3 +19,9 @@ Versión actual: **1.0**
 ### Sonido molesto:
 
 * CIRCUNSCRIPSCRIPCUNSCRIPCIRCUNSCRIP, molesto hasta para el alma más pura, un loop de AMLO tratando de decir circunscripción con algunos retoques para más masoquismo auditivo.
+
+## Descargar
+
+Puedes descargar la versión Debug (que tiene una ventana donde puedes controlar que quieres hacer), y la version Release (que hace lo mencionado de arriba todo al mismo tiempo)
+
+Puedes descargar dichas versiones en [los releases](https://github.com/Nk125/Amloware/releases), donde cada version tiene su etiqueta
